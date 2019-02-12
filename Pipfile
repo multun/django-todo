@@ -13,6 +13,7 @@ pytest-django = "*"
 factory-boy = "*"
 titlecase = "*"
 bleach = "*"
+django-autocomplete-light = "*"
 
 [dev-packages]
 pylint = "*"
